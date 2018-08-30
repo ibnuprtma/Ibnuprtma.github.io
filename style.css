@@ -24,17 +24,20 @@ h3{
 .btn{
     width: 100px;
     height: 21px;
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#326bac+0,33e1c3+100 */
-    background: #326bac; /* Old browsers */
-    background: -moz-linear-gradient(left, #326bac 0%, #33e1c3 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(left, #326bac 0%,#33e1c3 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to right, #326bac 0%,#33e1c3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#326bac', endColorstr='#33e1c3',GradientType=1 ); /* IE6-9 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#4693bb+0,75ceef+100 */
+    background: rgb(70,147,187); /* Old browsers */
+    background: -moz-linear-gradient(45deg, rgba(70,147,187,1) 0%, rgba(117,206,239,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, rgba(70,147,187,1) 0%,rgba(117,206,239,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, rgba(70,147,187,1) 0%,rgba(117,206,239,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4693bb', endColorstr='#75ceef',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     text-align: center;
     margin: auto;
     padding: 10px;
     border-radius: 60px;
     line-height: 21px;  
+    -webkit-box-shadow: 7px 9px 32px -10px rgba(105,102,105,1);
+    -moz-box-shadow: 7px 9px 32px -10px rgba(105,102,105,1);
+    box-shadow: 7px 9px 32px -10px rgba(105,102,105,1);
 }
 
 p{
