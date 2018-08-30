@@ -12,10 +12,13 @@
     <div class="wrap">
         <h3>Hello.</h3>
         <h3>Call me Ibnu.</h3>
+        <p>
+            If you want to contact the owner of this website...
+        </p>
     </div>    
 
     <div class="btn">
-       <a href="http://instagram.com/ibnuprtma">Click Me</a> 
+       <a href="https://kirimwa.id/081336532601">Click Me</a> 
     </div>
 
 </body>
