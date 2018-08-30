@@ -1,7 +1,7 @@
 body{
     margin : 0;
     padding: 0;
-    height: 550px;
+    height: 500px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#33e1c3+0,326bac+100 */
     background: #33e1c3; /* Old browsers */
@@ -39,7 +39,7 @@ h3{
 
 p{
     text-align: center;
-    font-size: 17px;
+    font-size: 15px;
     color:white;
 }
 
