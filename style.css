@@ -53,9 +53,28 @@ a{
 
 .sosmed{
     width: 400px;
-    height: 42px;
+    min-height: 49px;
     background: white;
     border-radius: 35px;
     margin: 18px auto;
+}
 
+
+.sosmed ul li {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 5px;
+    position: relative;
+    left: 14px;
+    text-align: center;
+    line-height: 40px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.sosmed ul li a{
+    box-sizing: border-box;
 }
